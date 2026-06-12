@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "be.cbgb.friendar",
+      "sha256_cert_fingerprints": [
+        "14:15:CD:53:01:16:7F:32:4F:93:00:2D:E4:C0:20:1E:3B:E1:4D:42:A8:E8:0D:1F:AA:4E:67:B6:BD:D3:7B:19"
+      ]
+    }
+  }
+]
