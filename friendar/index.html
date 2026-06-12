@@ -1,0 +1,18 @@
+  <!doctype html>
+  <meta charset="utf-8">
+  <title>friendar location</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>
+    const p = new URLSearchParams(location.search);
+    const lat = p.get("lat"), lon = p.get("lon"), label = p.get("label");
+    if (lat && lon) {
+      document.write(
+        (label ? label + " — " : "") +
+        '<a href="https://www.google.com/maps?q=' + lat + ',' + lon + '">Open in
+  Google Maps</a>'
+      );
+    } else {
+      document.write("No location.");
+    }
+  </script>
+
