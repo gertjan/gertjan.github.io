@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "be.cbgb.friendar",
       "sha256_cert_fingerprints": [
-        "14:15:CD:53:01:16:7F:32:4F:93:00:2D:E4:C0:20:1E:3B:E1:4D:42:A8:E8:0D:1F:AA:4E:67:B6:BD:D3:7B:19"
+        "14:15:CD:53:01:16:7F:32:4F:93:00:2D:E4:C0:20:1E:3B:E1:4D:42:A8:E8:0D:1F:AA:4E:67:B6:BD:D3:7B:19",
+        "97:80:9A:84:01:31:2E:88:6D:D3:D9:23:53:7C:C4:F3:82:E5:D8:52:17:23:F3:E4:50:86:D4:68:CB:65:E6:8A"
       ]
     }
   }
